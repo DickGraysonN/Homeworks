@@ -1,0 +1,48 @@
+.titulos {
+    color: chartreuse;
+    font-size: 60px;
+}
+
+.titulos2 {
+    color: antiquewhite;
+    font-size: 50px;
+}
+
+.fondo {
+    background-color: black;
+    font-size: 40px;
+}
+
+.letras {
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+#bordes {
+    border: 2px solid greenyellow;
+    width: 45vw;
+    padding: .5em;
+    margin: auto;
+}
+
+.pieimg {
+    width: 100vw;
+}
+
+.fondoboton {
+
+}
+
+#bordes:hover {
+    background-color: rgb(32, 32, 32);
+}
+
+#flex1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#flex2 {
+    margin-top: 1em;
+}
